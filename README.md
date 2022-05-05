@@ -6,7 +6,7 @@
 * ctrl + c
 * insert folder with your-component into folder packages
 * drag your file.stories.js into packages/monorepo-storybook/stories
-* in file.stories.js cange import YourComponent from '../../your-component/src/index'
+* in file.stories.js change import YourComponent from '../../your-component/src/index'
 * cd ui-components-library 
 * lerna bootstrap
 * cd packages/monorepo-storybook/
